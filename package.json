@@ -1,0 +1,19 @@
+{
+  "name": "theandrewlane-resume",
+  "version": "1.0.1",
+  "description": "Andrew Lane's resume, updated January 2020.",
+  "main": "index.js",
+  "bin": {
+    "theandrewlane-resume": "./index.js"
+  },
+  "scripts": {
+    "resume": "node ./index.js"
+  },
+  "author": "theandrewlane",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.0"
+  }
+}
+
