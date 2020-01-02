@@ -45,5 +45,5 @@ function handleResume() {
 }
 
 //Init :)
-console.log(`Hey! I'm Andrew, welcome to my resume! 🤓`);
+console.log(`Hello world! I'm Andrew, welcome to my resume! 🤓`);
 handleResume();
