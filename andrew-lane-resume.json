@@ -1,13 +1,13 @@
 {
   "Summary": [
-    "Over the past nine years, I have helped push dozens of software releases to customers. I have taken on roles in software development, system administration, operations, and also quality assurance. I specialize in automation framework design, web development, and custom CI system solutions - most recently I’ve taken on the responsibilities of tech lead. Usually I’m contributing to closed-source projects, but I do have verified contributions to Protractor, Yarn, and Selenium!"
+    "I’ve been in the FinTech space for nearly eleven years, and I’ve contributed to 100+ production software releases. During my time in tech, I have had the opportunity to grow my skills in software development, system administration, quality assurance/automation, operations, architecture, and everything in-between! I'm currently the tech lead for a medium sized team, delivering monthly releases to 26k+ users"
   ],
   "Education 📚": [
     "Bachelor of Science in Computer Science, Weber State University. 2015-2017 - GPA 3.71",
     "Pluralsite, Leetcode, EggheadIO, 2015 - Ongoing"
   ],
   "Past Experience 🧪": [
-    "Principal Software Engineer - Fidelity Investments - December 2019+",
+    "Principal Software Engineer & Tech Lead - Fidelity Investments - December 2019+",
     "Senior Software Engineer - Fidelity Investments - December 2015 - December 2018, 4yr1m",
     "Software Engineer/Software QA Engineer - Fidelity Investments - September 2013 - December 2015, 2yr4m",
     "Technical Intern - Fidelity Investments - May 2011 - September 2013, 2yr5m"
@@ -16,19 +16,20 @@
     "JavaScript ES6+",
     "TypeScript",
     "AngularJS, Angular, Angular Router, Redux",
+    "Loopback",
     "Gulp",
     "Webpack",
     "Jest, Cypress, Protractor, Jasmine, Karma",
     "HTML5",
     "CSS, SASS & SCSS, LESS",
     "Node.js",
-    "CircleCI, Jenkins",
+    "CircleCI, Jenkins, Jenkins Cloud",
     "Docker",
-    "Git, Terminal"
+    "Git, Bitbucket"
   ],
   "Achievements \uD83C\uDF1F": [
-    "Verified open source contributions to verified contributions to Protractor, Protractor-Flake, Yarn, and Selenium!",
-    "Started my career as an intern in 2011, and now I'm a principal software engineer and tech lead"
+    "Verified open source contributions to Protractor, Protractor-Flake, Yarn, and Selenium!",
+    "Started my career in 2011 as an intern, and worked my way up to a Principal Tech lead in 8 years."
   ],
   "Contact 🤙": [
     "https://www.linkedin.com/in/theandrewlane/",

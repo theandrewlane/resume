@@ -1,5 +1,5 @@
 # Andrew Lane's Resume
-##### _(January 2020)_
+##### _(Updated February 2022)_
 
 ### Open Resume:
 ```
